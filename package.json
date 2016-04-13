@@ -5,7 +5,7 @@
     "engines": { "node": ">=0.4.0" },
     "author": "Yaron Naveh (yaronn01@gmail.com, http://webservices20.blogspot.com/)",
     "dependencies": {
-        "xmldom": "git://github.com/winsome/xmldom.git",
+        "xmldom": "git://github.com/winsome/xmldom.git#winsome/allowInvalidTagNames",
         "xpath.js": ">=0.0.3"
      },
      "devDependencies": {
